@@ -11,7 +11,7 @@
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 # Directory
-- code: xX_Python_Jupyter_Notebook_360_Xx
+- code: Python Jupyter Notebook
 
 # Other
 - Must download yellow trip data for 2020 09-12 from the website into the same directory as the notebook file
